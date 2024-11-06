@@ -1,0 +1,2 @@
+C:\Users\n1ch0\Downloads\ARIndoorNavigation-Unity6-main\ARIndoorNavigation-Unity6-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\n1ch0\Downloads\ARIndoorNavigation-Unity6-main\ARIndoorNavigation-Unity6-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
