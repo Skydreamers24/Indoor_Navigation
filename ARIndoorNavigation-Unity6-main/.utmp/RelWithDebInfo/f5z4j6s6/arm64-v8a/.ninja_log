@@ -1,0 +1,10 @@
+# ninja log v5
+20	2640	7531904064341101	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	35c3110f4486b1ae
+53	2723	7531904064386462	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	de30b2901de7a178
+65	2811	7531904065908153	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6b81e05739bcbf83
+42	2814	7531904065898189	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7be947ed4342362
+76	2876	7531904066876876	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	88bdaa3bfb463569
+1	3029	7531904068430498	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	55efb2cf802ae399
+30	3342	7531904071651739	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	34c1498ef2adc45e
+11	3573	7531904073987482	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ddd1ca1a368b2d30
+3573	3865	7531904076914643	C:/Projects/Flutter/Indoor_Navigation/ARIndoorNavigation-Unity6-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/f5z4j6s6/obj/arm64-v8a/libgame.so	f894172c2859ff2c

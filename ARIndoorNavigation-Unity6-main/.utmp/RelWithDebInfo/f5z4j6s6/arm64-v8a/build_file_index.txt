@@ -1,0 +1,2 @@
+C:\Projects\Flutter\Indoor_Navigation\ARIndoorNavigation-Unity6-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Projects\Flutter\Indoor_Navigation\ARIndoorNavigation-Unity6-main\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
